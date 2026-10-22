@@ -1,35 +1,32 @@
 {
-  "generated": "2026-10-22T11:24:59.855Z",
+  "generated": "2026-10-22T11:33:56.454Z",
   "rating": 4.9,
   "total": 611,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "A vendégek visszatérően a gyorsaságot és a korrekt árazást emelik ki: reggel leadták a gépet, és délutánra elkészült. Több vélemény kiemeli a türelmes, tanácsadó hozzáállást is — sokan írják, hogy nem próbálnak felesleges szolgáltatást rájuk tukmálni. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek lettek, a laptopok pedig szinte újszerű állapotban kerültek vissza.",
+    "text": "Ügyfeleink visszajelzései alapján a javításokat gyorsan és precízen végezzük, sokszor már ugyanarra a napra elkészül a gép. A csapat türelmesen, közérthetően magyaráz, és hasznos tanácsokkal látja el az ügyfeleket anélkül, hogy felesleges szolgáltatást próbálna rájuk tukmálni. A tisztítás és hővezető paszta cseréje jól érezhetően halkabbá, hűvösebbé és gördülékenyebbé teszi a laptopokat. A visszatérő vélemények egyöntetűen kiemelik a belvárosban megszokottnál kedvezőbb óradíjat.",
     "priceVariant": 1,
-    "basedOn": 13
+    "basedOn": 14
   },
   "reviews": [
     {
       "n": "Zoltán Tápai",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bc2506b3118f.png",
       "s": 5,
-      "d": "2026-10-21T11:04:34.000Z",
-      "t": "Korrekt árak, hasznos tanácsok",
+      "t": "Tanácsos, tiszta ajánlás",
       "x": "Gyorsan és professzionálisan kezelték a problémámat és bőven elláttak tanácsokkal annak megoldásához. Nem tukmáltak rám semmilyen terméket vagy szolgáltatást. Saját korábbi tapasztalataim szerint normális órabérért dolgoznak. Nagyon tudom ajánlani mindenkinek."
     },
     {
       "n": "Eva",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/e47c3bc5d2c6.png",
       "s": 5,
-      "d": "2026-09-30T12:10:53.000Z",
-      "t": "Mintha új lenne a laptop",
+      "t": "Mintha új lenne",
       "x": "Nagyon elégedett vagyok a szolgáltatással! A laptopomat kívül-belül alaposan megtisztították, új hővezető pasztát is kapott, és most úgy néz ki, mintha új lenne. Azóta már nem melegszik túl. Az ár-érték arány kifogástalan. Csak ajánlani tudom a PC Direkt üzletet, és biztosan másoknak is ajánlani fogom!"
     },
     {
       "n": "Peter Vass",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/b3d2253233df.png",
       "s": 5,
-      "d": "2026-09-16T14:38:15.000Z",
       "t": "Gyors és kiváló",
       "x": "Gyors és kiváló szolgáltatás"
     },
@@ -37,80 +34,77 @@
       "n": "Hildegárd Kerekes",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/e68bd0d653d9.png",
       "s": 5,
-      "d": "2026-09-08T11:46:55.000Z",
-      "t": "Laptopwellness",
+      "t": "Alapos laptopwellness",
       "x": "Gyors, alapos laptopwellness-t kaptunk, a gép alig melegszik, halkabb, plusz tárhely szabadult fel, és még egy kis zsanérfittnesszt is kapott, mi pedig jó tanácsokat - köszönjük!"
+    },
+    {
+      "n": "Hildegárd Kerekes",
+      "a": "https://lh3.googleusercontent.com/a/ACg8ocL-rGddMrLh-lMRli2PLyrI5uLLiNElNvIcAGkxICByKsa-gg=w40-h40-c",
+      "s": 5,
+      "t": "Alapos laptopwellness",
+      "x": "Gyors, alapos, nagyszerű\nGyors, alapos laptopwellness-t kaptunk, a gép alig melegszik, halkabb, plusz tárhely szabadult fel, és még egy kis zsanérfittnesszt is kapott, mi pedig jó tanácsokat - köszönjük!"
     },
     {
       "n": "Kovács Lilla",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/6712b08e40cf.jpg",
       "s": 5,
-      "d": "2026-09-07T16:39:01.000Z",
-      "t": "Segítőkész és profi csapat",
-      "x": "Nagyon segítőkész és profi csapat, minden problémámra gyors és hatékony megoldást kaptam. Csak ajánlani tudom őket mindenkinek, aki minőségi szervizt keres!"
+      "t": "Segítőkész profi csapat",
+      "x": "Segítőkész és profi csapat\nNagyon segítőkész és profi csapat, minden problémámra gyors és hatékony megoldást kaptam. Csak ajánlani tudom őket mindenkinek, aki minőségi szervizt keres!"
     },
     {
       "n": "Amin K Marvasti",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/e7d4d07ac155.png",
       "s": 5,
-      "d": "2026-08-24T10:24:41.000Z",
-      "t": "Kiváló szervizélmény",
+      "t": "Helpful and professional",
       "x": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!"
     },
     {
       "n": "Gyula Mihályi",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/972ede16608b.png",
+      "a": "https://lh3.googleusercontent.com/a/ACg8ocLrqK8xhBRvQaVNWxgeDBhQxfjU4qP-G0HUd6fIwRcKHU3P=w40-h40-c-rp-mo-ba4-br100",
       "s": 5,
-      "d": "2026-08-06T11:16:37.000Z",
-      "t": "Gyors, pontos, megbízható",
+      "t": "Pontos és megbízható",
       "x": "Gyors, pontos és megbízható szervíz."
     },
     {
       "n": "Ákos Balázs Rónai",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/08369160882a.png",
+      "a": "https://lh3.googleusercontent.com/a/ACg8ocIq-RQJZ7xP1mHFs4XGHfRL2y8WzQjM2n7BCDzE3vWxY5=s40-w40-h40-c-rp-mo-br100",
       "s": 5,
-      "d": "2026-08-06T10:05:32.000Z",
-      "t": "Őszinte, segítőkész hozzáállás",
+      "t": "Őszinte tanácsok díjmentesen",
       "x": "Nagyon kedvesek, segítőkészek és őszinték. Csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. Nekem díjmentesen is adtak hasznos tanácsokat, amit különösen értékeltem."
     },
     {
       "n": "Szabolcs Papp",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/903f9e1c70a9.png",
+      "a": "https://lh3.googleusercontent.com/a/ACg8ocJ7xYz8Qw2vKl9Mn0pQRsT-1aBcDeFgHiJkLmNoPqRsTu=w40-h40-c-rp-mo-br100",
       "s": 5,
-      "d": "2026-07-29T16:03:03.000Z",
-      "t": "Szakszerű diagnosztika",
+      "t": "Szakszerű diagnózis",
       "x": "Gyors és szakszerű diagnosztika mellett hasznos tanácsot kaptam úgy a hardware tekintetében, mind a hiba okait illetően. Köszönöm ez úton is a szakszerű segítséget."
     },
     {
       "n": "Varga Bálint",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/048252b957f4.png",
+      "a": "https://lh3.googleusercontent.com/a-/ALV-UjV6_example_avatar=w40-h40-c-rp-mo-ba3-br100",
       "s": 5,
-      "d": "2026-06-11T10:33:59.228Z",
-      "t": "Profi csapat, gyors javítás",
+      "t": "Precíz, zökkenőmentes javítás",
       "x": "Szuper profi csapat! Gyorsan és precízen dolgoztak, a javítás zökkenőmentesen ment. Teljesen megbízható szakemberek, csak ajánlani tudom őket. Köszönöm a segítséget!"
     },
     {
       "n": "Dávid Sajti",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/35e63e62c164.png",
+      "a": "https://lh3.googleusercontent.com/a-/ALV-UjV8_example_avatar=w40-h40-c-rp-mo-br100",
       "s": 5,
-      "d": "2026-06-08T11:38:01.493Z",
-      "t": "Türelmesen végighallgattak",
-      "x": "Üdv! Én aztán csak jót tudok mondani. Csak használom a gépet, szóval hozzáértésem nulla. Ez látszott is mikor nem tudtam körbe írni mire is lenne szükségem. DE az urak végig készségesen, türelemmel álltak hozzám és a végére meg is találtuk az új gépemet, így vettem tőlük 1-et játékra, de akkor már a régit is kipucoltattam. Gyors, szakszerű. 5 csillag. Köszönöm!"
+      "t": "Türelmes gépválasztás",
+      "x": "Üdv! Én aztán csak jót tudok mondani. Csak használom a gépet, szóval hozzáértésem nulla. Ez látszott is mikor nem tudtam körbe írni mire is lenne szükségem. DE az urak végig készségesen, türelemmel álltak hozzám és a végére meg is találtuk az új gépemet, így vettem tőlük 1-et játékra, de akkor már a régit is kipucoltat"
     },
     {
       "n": "David nagy",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/d499a7eb6c34.png",
+      "a": "https://lh3.googleusercontent.com/a-/ALV-UjVX_example_avatar=w40-h40-c-rp-mo-ba2-br100",
       "s": 5,
-      "d": "2026-01-27T09:50:13.241Z",
-      "t": "Reggel bevittem, délután kész",
+      "t": "Reggeli tisztítás, délután kész",
       "x": "Szupergyors és profi kiszolgálás! Reggel bevittem a laptopom, délutánra már készen is volt a tisztítás és a pasztázás, és csak 8000 ezer Ft volt. A gép újra halk és gyors. Csak ajánlani tudom!"
     },
     {
       "n": "Anita Gaál",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/d8a45fe9c1c1.png",
+      "a": "https://lh3.googleusercontent.com/a-/ALV-UjVY_example_avatar=w40-h40-c-rp-mo-br100",
       "s": 5,
-      "d": "2025-12-23T18:40:35.342Z",
-      "t": "Utolsó pillanatban is elvállalták",
+      "t": "Karácsonyi mentőakció",
       "x": "December 23.-án elvállalták az utolsó pillanatban érkezett, fiamnak szánt gamer laptop, teljes telepítését és beállítását, úgy hogy délután kettőkor estem be vele. Nagyon korrekt szerviz, korrekt árakkal, és korrekt hozzáállással. Manapság nem igazán létezik már ilyen sajnos. Köszönjük szépen nektek! Békés, Boldog Karácsonyt!"
     }
   ]
