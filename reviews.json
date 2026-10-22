@@ -1,12 +1,12 @@
 {
-  "generated": "2026-10-22T11:33:56.454Z",
+  "generated": "2026-10-22T11:35:24.994Z",
   "rating": 4.9,
   "total": 611,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
     "text": "Ügyfeleink visszajelzései alapján a javításokat gyorsan és precízen végezzük, sokszor már ugyanarra a napra elkészül a gép. A csapat türelmesen, közérthetően magyaráz, és hasznos tanácsokkal látja el az ügyfeleket anélkül, hogy felesleges szolgáltatást próbálna rájuk tukmálni. A tisztítás és hővezető paszta cseréje jól érezhetően halkabbá, hűvösebbé és gördülékenyebbé teszi a laptopokat. A visszatérő vélemények egyöntetűen kiemelik a belvárosban megszokottnál kedvezőbb óradíjat.",
     "priceVariant": 1,
-    "basedOn": 14
+    "basedOn": 13
   },
   "reviews": [
     {
@@ -35,13 +35,6 @@
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/e68bd0d653d9.png",
       "s": 5,
       "t": "Alapos laptopwellness",
-      "x": "Gyors, alapos laptopwellness-t kaptunk, a gép alig melegszik, halkabb, plusz tárhely szabadult fel, és még egy kis zsanérfittnesszt is kapott, mi pedig jó tanácsokat - köszönjük!"
-    },
-    {
-      "n": "Hildegárd Kerekes",
-      "a": "https://lh3.googleusercontent.com/a/ACg8ocL-rGddMrLh-lMRli2PLyrI5uLLiNElNvIcAGkxICByKsa-gg=w40-h40-c",
-      "s": 5,
-      "t": "Alapos laptopwellness",
       "x": "Gyors, alapos, nagyszerű\nGyors, alapos laptopwellness-t kaptunk, a gép alig melegszik, halkabb, plusz tárhely szabadult fel, és még egy kis zsanérfittnesszt is kapott, mi pedig jó tanácsokat - köszönjük!"
     },
     {
@@ -55,7 +48,7 @@
       "n": "Amin K Marvasti",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/e7d4d07ac155.png",
       "s": 5,
-      "t": "Helpful and professional",
+      "t": "Segítőkész és profi",
       "x": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!"
     },
     {
