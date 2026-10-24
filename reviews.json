@@ -1,22 +1,14 @@
 {
-  "generated": "2026-10-24T15:55:26.313Z",
+  "generated": "2026-10-24T16:03:40.052Z",
   "rating": 4.9,
   "total": 611,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
     "text": "A véleményekben az ügyfelek a gyors, pontos és türelmes kiszolgálást emelik ki, legyen szó tisztításról, pasztázásról, diagnosztikáról vagy új gép vásárlásáról. A tisztítás és a hővezető paszta cseréje után a gépek halkabbak, hűvösebbek és gördülékenyebben működnek. Többen írják, hogy a csapat akkor is szívesen ad tanácsot, ha abból nem lesz javítás, és csak a ténylegesen elvégzett munkáért kér pénzt. A visszajelzések alapján a vendégek az ár-érték arányt is pozitívan értékelik.",
     "priceVariant": 2,
-    "basedOn": 14
+    "basedOn": 12
   },
   "reviews": [
-    {
-      "n": "Gábor Ratting",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/b033af0a44cc.png",
-      "s": 5,
-      "d": "2026-10-22T15:28:35.000Z",
-      "t": "Példamutató segítőkészség",
-      "x": "Segítőkészség példamutató!"
-    },
     {
       "n": "Zoltán Tápai",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bc2506b3118f.png",
@@ -47,15 +39,7 @@
       "s": 5,
       "d": "2026-09-08T11:46:55.000Z",
       "t": "Zsanérfitnessz és tisztítás",
-      "x": "Gyors, alapos, nagyszerű\nGyors, alapos laptopwellness-t kaptunk, a gép alig melegszik, halkabb, plusz tárhely szabadult fel, és még egy kis zsanérfittnesszt is kapott, mi pedig jó tanácsokat - köszönjük!"
-    },
-    {
-      "n": "Kovács Lilla",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/6712b08e40cf.jpg",
-      "s": 5,
-      "d": "2026-09-07T16:39:01.000Z",
-      "t": "Gyors válasz minden problémára",
-      "x": "Segítőkész és profi csapat\nNagyon segítőkész és profi csapat, minden problémámra gyors és hatékony megoldást kaptam. Csak ajánlani tudom őket mindenkinek, aki minőségi szervizt keres!"
+      "x": "Gyors, alapos laptopwellness-t kaptunk, a gép alig melegszik, halkabb, plusz tárhely szabadult fel, és még egy kis zsanérfittnesszt is kapott, mi pedig jó tanácsokat - köszönjük!"
     },
     {
       "n": "Amin K Marvasti",
