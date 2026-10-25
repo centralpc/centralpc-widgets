@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-24T16:03:40.052Z",
+  "generated": "2026-10-25T04:00:59.267Z",
   "rating": 4.9,
   "total": 611,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "A véleményekben az ügyfelek a gyors, pontos és türelmes kiszolgálást emelik ki, legyen szó tisztításról, pasztázásról, diagnosztikáról vagy új gép vásárlásáról. A tisztítás és a hővezető paszta cseréje után a gépek halkabbak, hűvösebbek és gördülékenyebben működnek. Többen írják, hogy a csapat akkor is szívesen ad tanácsot, ha abból nem lesz javítás, és csak a ténylegesen elvégzett munkáért kér pénzt. A visszajelzések alapján a vendégek az ár-érték arányt is pozitívan értékelik.",
-    "priceVariant": 2,
+    "text": "Az ügyfelek a gyors és türelmes kiszolgálást emelik ki: a csapat gyorsan azonosítja a problémákat, közérthető tanácsokkal látja el a vendégeket, és nem erőltet rájuk felesleges terméket. A tisztítás és pasztázás után a laptopok halkabbak, hűvösebbek és gördülékenyebben működnek. A visszajelzések szerint a szerviz a rejtett költségek nélküli, kiszámítható árazást képviseli, akár díjmentes tanácsadás formájában is.",
+    "priceVariant": 3,
     "basedOn": 12
   },
   "reviews": [
@@ -46,7 +46,7 @@
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/e7d4d07ac155.png",
       "s": 5,
       "d": "2026-08-24T10:24:41.000Z",
-      "t": "Minden lépést elmagyaráztak",
+      "t": "Barátságos, világos magyarázatok",
       "x": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!"
     },
     {
