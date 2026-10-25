@@ -30,5 +30,7 @@
     var io=new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ io.disconnect(); go(); } }); },{threshold:0.25});
     list.forEach(function(t){ io.observe(t.el.closest('.counter-box')||t.el); });
   }
+  // NINCS-COUNTER: ha az oldalon nincs szamlalo widget, ne kerjunk adatot
+  if(!document.querySelector('.counter')) return;
   fetch(SRC,{cache:'no-store'}).then(function(r){return r.json()}).then(run).catch(function(){ run(FALLBACK); });
 })();
