@@ -1,6 +1,6 @@
-/* Central PC | statisztika | v4 2026-10-25 | FROZEN
-   Elv: a szam rejtve van, amig a honlap.hu counter widget el nem inditja az animaciot.
-   Igy nincs "kesz szam -> animacio -> kesz szam" villanas. A vegen pontos ertek. */
+/* Central PC | statisztika | v5 2026-10-25 | FROZEN
+   Elv: a szam azonnal 0-ra all, majd a viewportba erve MAGUNK animáljuk a helyes ertekre.
+   A vegen ertek-reteszel, hogy a widget ne irhassa felul. */
 (function () {
   var SRC = 'https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/stats.json';
   var FALLBACK = { facebook_likes: 1204, google_reviews: 611, happy_clients: 8663, years_same_place: 13 };
@@ -10,6 +10,7 @@
     { re: /el[ée]gedett|ügyf[ée]l|ugyfel/i, key: 'happy_clients' },
     { re: /[ée]ve|helyen/i, key: 'years_same_place' }
   ];
+  var DUR = 1200;
 
   function fmt(n) {
     try { return Number(n).toLocaleString('hu-HU'); } catch (e) { return String(n); }
@@ -21,40 +22,65 @@
       var box = el.closest('.counter-box') || el.parentNode;
       var label = ((box && box.textContent) || '').toLowerCase();
       for (var i = 0; i < MAP.length; i++) {
-        if (MAP[i].re.test(label)) { out.push({ el: el, key: MAP[i].key }); break; }
+        if (MAP[i].re.test(label)) { out.push({ el: el, key: MAP[i].key, box: box || el }); break; }
       }
     });
     return out;
   }
 
-  // A szam rejtve marad, amig a widget el nem inditja a szamlalast (elso valtozas).
-  function watch(el, finalValue) {
-    var shown = false, last = el.textContent, stable = 0, ticks = 0;
-    el.style.visibility = 'hidden';
-    var t = setInterval(function () {
-      ticks++;
-      if (!shown && el.textContent !== last) { shown = true; el.style.visibility = 'visible'; }
-      if (!shown && ticks >= 8) { shown = true; el.style.visibility = 'visible'; } // 0.8s biztonsagi
-      if (el.textContent === last) stable++; else { stable = 0; last = el.textContent; }
-      if (shown && (stable >= 6 || ticks >= 100)) {
-        clearInterval(t);
-        var want = fmt(finalValue);
-        if (el.textContent !== want) el.textContent = want;
-        el.style.visibility = 'visible';
+  function ease(t) { return 1 - Math.pow(1 - t, 3); }
+
+  function animate(el, to) {
+    if (el.getAttribute('data-cpc-done') === '1') return;
+    el.setAttribute('data-cpc-done', '1');
+    var start = null;
+    function step(ts) {
+      if (!start) start = ts;
+      var p = Math.min(1, (ts - start) / DUR);
+      el.textContent = fmt(Math.round(to * ease(p)));
+      if (p < 1) requestAnimationFrame(step); else {
+        el.textContent = fmt(to);
+        lock(el, to);
       }
-    }, 100);
+    }
+    requestAnimationFrame(step);
+  }
+
+  // ha a widget kesobb felulirna, visszaallitjuk a vegso erteket
+  function lock(el, value) {
+    var want = fmt(value);
+    var mo = new MutationObserver(function () {
+      if (el.textContent !== want) el.textContent = want;
+    });
+    mo.observe(el, { childList: true, characterData: true, subtree: true });
+    setTimeout(function () { mo.disconnect(); if (el.textContent !== want) el.textContent = want; }, 5000);
   }
 
   function run(data) {
     var list = targets();
     if (!list.length) return;
-    list.forEach(function (t) {
-      var v = Number(data[t.key] || 0);
-      if (v > 0) watch(t.el, v);
-    });
+
+    // 1) azonnal nullazunk, hogy ne villanjon be a kesz szam
+    list.forEach(function (t) { t.el.textContent = '0'; });
+
+    // 2) amikor a banner a viewportba er, indul az animacio
+    var start = function () {
+      list.forEach(function (t) {
+        var v = Number(data[t.key] || 0);
+        if (v > 0) animate(t.el, v);
+      });
+    };
+
+    if (!('IntersectionObserver' in window)) return start();
+    var io = new IntersectionObserver(function (es) {
+      es.forEach(function (e) {
+        if (e.isIntersecting) { io.disconnect(); start(); }
+      });
+    }, { threshold: 0.15 });
+    list.forEach(function (t) { io.observe(t.box); });
   }
 
-  if (!document.querySelector('.counter')) return; // nincs szamlalo az oldalon -> nincs fetch
+  if (!document.querySelector('.counter')) return; // nincs szamlalo -> nincs fetch
   fetch(SRC, { cache: 'no-store' })
     .then(function (r) { return r.json(); })
     .then(run)
