@@ -1,10 +1,10 @@
 {
-  "generated": "2026-10-26T04:01:27.186Z",
+  "generated": "2026-10-27T04:01:37.670Z",
   "rating": 4.9,
   "total": 611,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "Az ügyfelek gyors és szakszerű segítséget kaptak, a csapat pedig türelmesen, tanácsadó módon állt minden kérdéshez. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek és újra gördülékenyen működtek. A visszajelzések szerint a barátságos óradíjat és a kiszámítható költségeket is pozitívan értékelték.",
+    "text": "A véleményekben az ügyfelek a gyors, türelmes és tanácsadó hozzáállást emelik ki leggyakrabban. A tisztítás és pasztázás hatására a gépek halkabbak, hűvösebbek és gördülékenyebben működnek. A szerviz a barátságos óradíjat is következetesen érvényesíti anélkül, hogy rejtett költségek merülnének fel.",
     "priceVariant": 4,
     "basedOn": 12
   },
@@ -66,14 +66,6 @@
       "x": "Nagyon kedvesek, segítőkészek és őszinték. Csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. Nekem díjmentesen is adtak hasznos tanácsokat, amit különösen értékeltem."
     },
     {
-      "n": "Szabolcs Papp",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/faf6f4bb848d.png",
-      "s": 5,
-      "d": "2026-07-29T16:03:03.101Z",
-      "t": "Hardverdiagnosztika tanácsokkal",
-      "x": "Gyors és szakszerű diagnosztika mellett hasznos tanácsot kaptam úgy a hardware tekintetében, mind a hiba okait illetően. Köszönöm ez úton is a szakszerű segítséget."
-    },
-    {
       "n": "Varga Bálint",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/048252b957f4.png",
       "s": 5,
@@ -88,6 +80,14 @@
       "d": "2026-06-08T11:38:01.493Z",
       "t": "Türelmesen végighallgattak",
       "x": "Üdv!\nÉn aztán csak jót tudok mondani. Csak használom a gépet, szóval hozzáértésem nulla. Ez látszott is mikor nem tudtam körbe írni mire is lenne szükségem. DE az urak végig készségesen, türelemmel álltak hozzám és a végére meg is találtuk az új gépemet, így vettem tőlük 1-et játékra, de akkor már a régit is kipucoltattam. Gyors, szakszerű. 5 csillag. Köszönöm!"
+    },
+    {
+      "n": "Péter Imréné Pirisi",
+      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bea6eb33d117.png",
+      "s": 5,
+      "d": "2026-06-04T08:32:30.270Z",
+      "t": "Türelmesek idősebb ügyfelekkel",
+      "x": "Tegnap jártam a Central PC-nél. Régi, sérült SSd-jű laptopomról sikeresen mentették át a dolgaimat az újra és fel is újították. Gyorsak, pontosak, megbízhatóak, kitúnő szakemberek. Kiemelném a kommunikációjukat is, mert nyugdíjasként ilyen kedvesen, türelmesen még nem bántak velem sehol. Rendkívül korrekt összegért végezték el az összes feladatot. Bár csak öt csillagot lehet adni, én szívem szerint hatot adnék nekik és mindenkinek jó szívvel ajánlom őket!"
     },
     {
       "n": "David nagy",
