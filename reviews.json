@@ -1,14 +1,22 @@
 {
-  "generated": "2026-10-29T04:01:45.111Z",
+  "generated": "2026-10-30T04:01:46.044Z",
   "rating": 4.9,
   "total": 612,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "A véleményekben az ügyfelek a gyors, türelmes és tanácsadó hozzáállást emelik ki leggyakrabban. A tisztítás és pasztázás hatására a gépek halkabbak, hűvösebbek és gördülékenyebben működnek. A szerviz a barátságos óradíjat is következetesen érvényesíti anélkül, hogy rejtett költségek merülnének fel.",
-    "priceVariant": 4,
+    "text": "A vendégek visszatérően a gyorsaságot és a korrekt árazást emelik ki: reggel leadták a gépet, és délutánra elkészült. Több vélemény kiemeli a türelmes, tanácsadó hozzáállást is, sokan írják, hogy csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek lettek, a laptopok pedig szinte újszerű állapotban kerültek vissza.",
+    "priceVariant": 0,
     "basedOn": 12
   },
   "reviews": [
+    {
+      "n": "Róbert Takács",
+      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/f2ac703f5bd5.png",
+      "s": 5,
+      "d": "2026-10-28T11:46:35.000Z",
+      "t": "Felkészült és korrekt csapat",
+      "x": "Szakmailag felkeszult gyors es korrekt szolgaltatas, mindenkinek ajanlom!!!"
+    },
     {
       "n": "Zoltán Tápai",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bc2506b3118f.png",
@@ -46,7 +54,7 @@
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/e7d4d07ac155.png",
       "s": 5,
       "d": "2026-08-24T10:24:41.000Z",
-      "t": "Világos magyarázatok külföldinek",
+      "t": "Külföldi vendégnek is világos",
       "x": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!"
     },
     {
@@ -56,14 +64,6 @@
       "d": "2026-08-06T11:16:37.000Z",
       "t": "Pontos, megbízható szerviz",
       "x": "Gyors, pontos és megbízható szervíz."
-    },
-    {
-      "n": "Ákos Balázs Rónai",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/08369160882a.png",
-      "s": 5,
-      "d": "2026-08-06T10:05:32.000Z",
-      "t": "Díjmentes tanács, őszinte ár",
-      "x": "Nagyon kedvesek, segítőkészek és őszinték. Csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. Nekem díjmentesen is adtak hasznos tanácsokat, amit különösen értékeltem."
     },
     {
       "n": "Varga Bálint",
@@ -86,7 +86,7 @@
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/ba7ff7a4a8b7.png",
       "s": 5,
       "d": "2026-02-06T18:48:46.652Z",
-      "t": "Minden kérdésre válaszolnak",
+      "t": "Precíz és gyors segítség",
       "x": "Teljes mértékben elégedett vagyok. Csak ajánlani tudom.\nGyors (meglepően gyors) , precíz hozzáállás, teljes körű segítőkészség  és szakértelem. Minden egyes kérdésemre választottak amit csak feltettem, segítettek kiválasztani a megfelelő alkatrészeket.\nTeljesen profi szervíz."
     },
     {
