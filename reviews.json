@@ -1,11 +1,11 @@
 {
-  "generated": "2026-10-30T04:01:46.044Z",
+  "generated": "2026-10-31T04:01:32.960Z",
   "rating": 4.9,
   "total": 612,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "A vendégek visszatérően a gyorsaságot és a korrekt árazást emelik ki: reggel leadták a gépet, és délutánra elkészült. Több vélemény kiemeli a türelmes, tanácsadó hozzáállást is, sokan írják, hogy csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek lettek, a laptopok pedig szinte újszerű állapotban kerültek vissza.",
-    "priceVariant": 0,
+    "text": "A véleményekben az ügyfelek egyöntetűen a gyors, szakszerű és türelmes kiszolgálást emelik ki. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek és újra jól használhatók; a tanácsadó hozzáállás pedig segít abban, hogy mindenki megértse a javítás menetét. A megszólalók külön értékelik a belvárosban megszokottnál kedvezőbb óradíjat, és többen visszatérőként vagy ajánlással jelzik az elégedettségüket.",
+    "priceVariant": 1,
     "basedOn": 12
   },
   "reviews": [
@@ -54,7 +54,7 @@
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/e7d4d07ac155.png",
       "s": 5,
       "d": "2026-08-24T10:24:41.000Z",
-      "t": "Külföldi vendégnek is világos",
+      "t": "Angolul is gördülékeny segítség",
       "x": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!"
     },
     {
@@ -86,8 +86,8 @@
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/ba7ff7a4a8b7.png",
       "s": 5,
       "d": "2026-02-06T18:48:46.652Z",
-      "t": "Precíz és gyors segítség",
-      "x": "Teljes mértékben elégedett vagyok. Csak ajánlani tudom.\nGyors (meglepően gyors) , precíz hozzáállás, teljes körű segítőkészség  és szakértelem. Minden egyes kérdésemre választottak amit csak feltettem, segítettek kiválasztani a megfelelő alkatrészeket.\nTeljesen profi szervíz."
+      "t": "Minden kérdésre válaszolnak",
+      "x": "Teljes mértékben elégedett vagyok. Csak ajánlani tudom.\nGyors (meglepően gyors) , precíz hozzáállás, teljes körű segítőkészség  és szakértelem. Minden egyes kérdésemre válaszoltak amit csak feltettem, segítettek kiválasztani a megfelelő alkatrészeket.\nTeljesen profi szervíz."
     },
     {
       "n": "David nagy",
