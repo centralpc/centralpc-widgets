@@ -1,12 +1,12 @@
 {
-  "generated": "2026-11-06T04:02:54.509Z",
+  "generated": "2026-11-07T04:02:08.220Z",
   "rating": 4.9,
   "total": 615,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "A vélemények alapján az ügyfelek gyors, türelmes és tanácsadó hozzáállást tapasztalnak, ahol a problémákat szakszerűen kezelik és közérthető magyarázatot is kapnak. A tisztítás és pasztázás hatására a gépek halkabbak, hűvösebbek és újra lendületbe jönnek. Többen kiemelik az ár-érték arányt, valamint azt, hogy a csapat nem tukmál felesleges szolgáltatást.",
-    "priceVariant": 2,
-    "basedOn": 11
+    "text": "Az ügyfelek a gyors, ugyanazon a napon elvégzett javításokat és a türelmes, közérthető tájékoztatást emelik ki. A tisztítás és pasztázás után a laptopok halkabbak, hűvösebbek és gördülékenyebben működnek. A visszajelzések szerint a csapat a rejtett költségek nélküli, kiszámítható árazást is fontosnak tartja.",
+    "priceVariant": 3,
+    "basedOn": 10
   },
   "reviews": [
     {
@@ -58,14 +58,6 @@
       "x": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!"
     },
     {
-      "n": "Gyula Mihályi",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/972ede16608b.png",
-      "s": 5,
-      "d": "2026-08-06T11:16:37.000Z",
-      "t": "Pontos, megbízható szerviz",
-      "x": "Gyors, pontos és megbízható szervíz."
-    },
-    {
       "n": "Dávid Sajti",
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/35e63e62c164.png",
       "s": 5,
@@ -86,8 +78,8 @@
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/ba7ff7a4a8b7.png",
       "s": 5,
       "d": "2026-02-06T18:48:46.652Z",
-      "t": "Teljes körű szakértelem",
-      "x": "Teljes mértékben elégedett vagyok. Csak ajánlani tudom.\nGyors (meglepően gyors) , precíz hozzállás, teljes körű segítőkészség  és szakértelem. Minden egyes kérdésemre válaszoltak amit csak feltettem, segítettek kiválasztani a megfelelő alkatrészeket.\nTeljesen profi szervíz."
+      "t": "Gyors és precíz szakértelem",
+      "x": "Teljes mértékben elégedett vagyok. Csak ajánlani tudom.\nGyors (meglepően gyors) , precíz hozzállás, teljes körű segítőkészség  és szakértelem. Minden egyes kérdésemre választottak amit csak feltettem, segítettek kiválasztani a megfelelő alkatrészeket.\nTeljesen profi szervíz."
     },
     {
       "n": "David nagy",
