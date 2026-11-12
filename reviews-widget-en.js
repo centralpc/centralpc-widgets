@@ -192,4 +192,5 @@ var B64="ewogICJnZW5lcmF0ZWQiOiAiMjAyNi0xMS0xMlQxMjoyMTowMy4yNDFaIiwKICAicmF0aW5
     }).catch(function(){});
   }
   }catch(err){ window.__cpcEnErr=String(err&&err.message||err); }
+  try{ window.__cpcDbg={ gen:(typeof D!=='undefined'&&D)?D.generated:'?', hasEn:!!((typeof D!=='undefined'&&D)&&D.summary&&D.summary.en), enHead:((typeof D!=='undefined'&&D&&D.summary&&D.summary.en)||'').slice(0,40) }; }catch(e){}
 })();
