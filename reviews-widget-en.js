@@ -79,9 +79,10 @@ var B64="ewogICJnZW5lcmF0ZWQiOiAiMjAyNi0xMS0xMlQxMjoyMTowMy4yNDFaIiwKICAicmF0aW5
     var c=document.createElement('div');
     c.className='cpc-rv-card';
     c.appendChild(starsRow(r.s,'cpc-rv-st'));
-    if(r.t){
+    var ttl=(EN && !SHOW_ORIG && r.te)?r.te:r.t;
+    if(ttl){
       var tt=document.createElement('div');
-      tt.className='cpc-rv-t'; tt.textContent=r.t;
+      tt.className='cpc-rv-t'; tt.textContent=ttl;
       c.appendChild(tt);
     }
     var body=(EN && !SHOW_ORIG && r.xe)?r.xe:r.x;
