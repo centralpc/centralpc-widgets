@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-14T11:16:52.705Z",
+  "generated": "2026-11-15T04:01:32.138Z",
   "rating": 4.9,
   "total": 617,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "A vendégek visszatérően a gyorsaságot és a korrekt árazást emelik ki: reggel leadták a gépet, és délutánra elkészült. Több vélemény kiemeli a türelmes, tanácsadó hozzáállást is, sokan írják, hogy csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek lettek, a laptopok pedig szinte újszerű állapotban kerültek vissza.",
+    "text": "Az ügyfelek a gyorsaságot és a türelmes, tanácsadó hozzállást emelik ki legtöbbször. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek és újszerűen működnek. A visszajelzések szerint a szerviz a korrekt árazást is tartja, rejtett költségek nélkül. A legfrissebb vélemények továbbra is ötcsillagos értékelésekről szólnak.",
     "priceVariant": 0,
     "basedOn": 17,
     "en": "Customers highlight the fast, precise service and the patient, advisory attitude. After cleaning and thermal paste replacement, the machines run quieter, cooler and almost like new. The shop offers a friendlier hourly rate than you would expect in the city centre, with no hidden costs."
@@ -81,36 +81,6 @@
       "te": "Hinge repair and advice"
     },
     {
-      "n": "Ákos Balázs Rónai",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/cd1b7c66bccd.png",
-      "s": 5,
-      "d": "2026-08-06T10:05:32.418Z",
-      "t": "Díjmentes tanácsok őszintén",
-      "x": "Nagyon kedvesek, segítőkészek és őszinték. Csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. Nekem díjmentesen is adtak hasznos tanácsokat, amit különösen értékeltem.",
-      "xe": "They are very kind, helpful and honest. They only ask for money when some work is genuinely needed. They even gave me useful advice free of charge, which I especially appreciated.",
-      "te": "Free advice, honest pricing"
-    },
-    {
-      "n": "Péter Imréné Pirisi",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bea6eb33d117.png",
-      "s": 5,
-      "d": "2026-06-04T08:32:30.270Z",
-      "t": "Tegnap jártam a Central",
-      "x": "Tegnap jártam a Central PC-nél. Régi, sérült SSd-jű laptopomról sikeresen mentették át a dolgaimat az újra és fel is újították. Gyorsak, pontosak, megbízhatóak, kitúnő szakemberek. Kiemelném a kommunikációjukat is, mert nyugdíjasként ilyen kedvesen, türelmesen még nem bántak velem sehol. Rendkívül korrekt összegért végezték el az összes feladatot. Bár csak öt csillagot lehet adni, én szívem szerint hatot adnék nekik és mindenkinek jó szívvel ajánlom őket!",
-      "xe": "I visited Central PC yesterday. They successfully transferred my data from my old laptop with a damaged SSD to a new one and refurbished it. They are fast, precise, reliable, outstanding professionals. I would also highlight their communication, because as a pensioner I have never been treated so kindly and patiently anywhere. They completed all the tasks for an extremely fair price. Although only five stars can be given, in my heart I would give them six, and I recommend them wholeheartedly!",
-      "te": "Patient with older customers"
-    },
-    {
-      "n": "David nagy",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/d499a7eb6c34.png",
-      "s": 5,
-      "d": "2026-01-27T09:50:13.241Z",
-      "t": "Reggeli tisztítás délutánra kész",
-      "x": "Szupergyors és profi kiszolgálás! Reggel bevittem a laptopom, délutánra már készen is volt a tisztítás és a pasztázás, és csak 8000 ezer Ft volt. A gép újra halk és gyors. Csak ajánlani tudom!",
-      "xe": "Super-fast and professional service! I dropped off my laptop in the morning and by the afternoon the cleaning and thermal paste work was done, for only 8,000 HUF. The machine is quiet and fast again. I can only recommend them!",
-      "te": "Morning drop-off, ready by afternoon"
-    },
-    {
       "n": "Amin K Marvasti",
       "a": "",
       "s": 5,
@@ -129,6 +99,16 @@
       "x": "Gyors, pontos és megbízható szervíz.",
       "xe": "Fast, precise and reliable service.",
       "te": "Precise, reliable service"
+    },
+    {
+      "n": "Ákos Balázs Rónai",
+      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/cd1b7c66bccd.png",
+      "s": 5,
+      "d": "2026-08-06T10:05:32.418Z",
+      "t": "Díjmentes tanácsok őszintén",
+      "x": "Nagyon kedvesek, segítőkészek és őszinték. Csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. Nekem díjmentesen is adtak hasznos tanácsokat, amit különösen értékeltem.",
+      "xe": "They are very kind, helpful and honest. They only ask for money when some work is genuinely needed. They even gave me useful advice free of charge, which I especially appreciated.",
+      "te": "Free advice, honest pricing"
     },
     {
       "n": "Szabolcs Papp",
@@ -161,6 +141,16 @@
       "te": "New machine chosen with patience"
     },
     {
+      "n": "Péter Imréné Pirisi",
+      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bea6eb33d117.png",
+      "s": 5,
+      "d": "2026-06-04T08:32:30.270Z",
+      "t": "Tegnap jártam a Central",
+      "x": "Tegnap jártam a Central PC-nél. Régi, sérült SSd-jű laptopomról sikeresen mentették át a dolgaimat az újra és fel is újították. Gyorsak, pontosak, megbízhatóak, kitúnő szakemberek. Kiemelném a kommunikációjukat is, mert nyugdíjasként ilyen kedvesen, türelmesen még nem bántak velem sehol. Rendkívül korrekt összegért végezték el az összes feladatot. Bár csak öt csillagot lehet adni, én szívem szerint hatot adnék nekik és mindenkinek jó szívvel ajánlom őket!",
+      "xe": "I visited Central PC yesterday. They successfully transferred my data from my old laptop with a damaged SSD to a new one and refurbished it. They are fast, precise, reliable, outstanding professionals. I would also highlight their communication, because as a pensioner I have never been treated so kindly and patiently anywhere. They completed all the tasks for an extremely fair price. Although only five stars can be given, in my heart I would give them six, and I recommend them wholeheartedly!",
+      "te": "Patient with older customers"
+    },
+    {
       "n": "Zoltán Kisfali",
       "a": "",
       "s": 5,
@@ -169,6 +159,16 @@
       "x": "Teljes mértékben elégedett vagyok. Csak ajánlani tudom. Gyors (meglepően gyors) , precíz hozzállás, teljes körű segítőkészség  és szakértelem. Minden egyes kérdésemre választottak, segítettek kiválasztani a megfelelő alkatrészeket. Teljesen profi szervíz.",
       "xe": "I am completely satisfied. I can only recommend. Fast (surprisingly fast), precise approach, comprehensive helpfulness and expertise. They answered every single question and helped me choose the right parts. Completely professional service.",
       "te": "Every question answered"
+    },
+    {
+      "n": "David nagy",
+      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/d499a7eb6c34.png",
+      "s": 5,
+      "d": "2026-01-27T09:50:13.241Z",
+      "t": "Reggeli tisztítás délutánra kész",
+      "x": "Szupergyors és profi kiszolgálás! Reggel bevittem a laptopom, délutánra már készen is volt a tisztítás és a pasztázás, és csak 8000 ezer Ft volt. A gép újra halk és gyors. Csak ajánlani tudom!",
+      "xe": "Super-fast and professional service! I dropped off my laptop in the morning and by the afternoon the cleaning and thermal paste work was done, for only 8,000 HUF. The machine is quiet and fast again. I can only recommend them!",
+      "te": "Morning drop-off, ready by afternoon"
     },
     {
       "n": "Anita Gaál",
