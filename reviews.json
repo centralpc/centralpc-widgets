@@ -1,11 +1,11 @@
 {
-  "generated": "2026-11-15T04:01:32.138Z",
+  "generated": "2026-11-15T11:11:46.295Z",
   "rating": 4.9,
   "total": 617,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "Az ügyfelek a gyorsaságot és a türelmes, tanácsadó hozzállást emelik ki legtöbbször. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek és újszerűen működnek. A visszajelzések szerint a szerviz a korrekt árazást is tartja, rejtett költségek nélkül. A legfrissebb vélemények továbbra is ötcsillagos értékelésekről szólnak.",
-    "priceVariant": 0,
+    "text": "Az ügyfelek gyors, precíz és türelmes kiszolgálást emelnek ki a Central PC-nél. A vélemények szerint a tisztítás és pasztázás hatékonyan csökkenti a gép hőmérsékletét és zaját, a tanácsadás pedig segít a megfelelő alkatrészek és új gépek kiválasztásában. A csapat nem tukmál felesleges szolgáltatást, a díjmentes tanácsadást és a belvárosban megszokottnál kedvezőbb óradíjat pedig külön értékelik.",
+    "priceVariant": 1,
     "basedOn": 17,
     "en": "Customers highlight the fast, precise service and the patient, advisory attitude. After cleaning and thermal paste replacement, the machines run quieter, cooler and almost like new. The shop offers a friendlier hourly rate than you would expect in the city centre, with no hidden costs."
   },
@@ -85,7 +85,7 @@
       "a": "",
       "s": 5,
       "d": "2026-08-24T10:24:41.000Z",
-      "t": "Great experience with this",
+      "t": "Külföldi vendég ajánlása",
       "x": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!",
       "xe": "",
       "te": "Smooth help in English"
@@ -145,7 +145,7 @@
       "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bea6eb33d117.png",
       "s": 5,
       "d": "2026-06-04T08:32:30.270Z",
-      "t": "Tegnap jártam a Central",
+      "t": "Türelmes adatmentés nyugdíjasként",
       "x": "Tegnap jártam a Central PC-nél. Régi, sérült SSd-jű laptopomról sikeresen mentették át a dolgaimat az újra és fel is újították. Gyorsak, pontosak, megbízhatóak, kitúnő szakemberek. Kiemelném a kommunikációjukat is, mert nyugdíjasként ilyen kedvesen, türelmesen még nem bántak velem sehol. Rendkívül korrekt összegért végezték el az összes feladatot. Bár csak öt csillagot lehet adni, én szívem szerint hatot adnék nekik és mindenkinek jó szívvel ajánlom őket!",
       "xe": "I visited Central PC yesterday. They successfully transferred my data from my old laptop with a damaged SSD to a new one and refurbished it. They are fast, precise, reliable, outstanding professionals. I would also highlight their communication, because as a pensioner I have never been treated so kindly and patiently anywhere. They completed all the tasks for an extremely fair price. Although only five stars can be given, in my heart I would give them six, and I recommend them wholeheartedly!",
       "te": "Patient with older customers"
