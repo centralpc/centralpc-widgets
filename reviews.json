@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-17T11:12:17.777Z",
+  "generated": "2026-11-18T04:03:56.185Z",
   "rating": 4.9,
   "total": 621,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "Az ügyfelek egyöntetűen dicsérik a gyors, precíz és türelmes kiszolgálást, valamint a tisztítás és pasztázás után tapasztalható látványos javulást. A vélemények kiemelik a szakemberek tanácsadó hozzáállását és a díjmentes, őszinte útmutatást is. A visszajelzések alapján a szerviz a rejtett költségek nélküli, kiszámítható árazást kínálja.",
-    "priceVariant": 3,
+    "text": "Az ügyfelek egyöntetűen dicsérik a gyors, precíz és türelmes kiszolgálást, valamint a tisztítás és pasztázás után érezhető javulást. A vélemények kiemelik a szakemberek tanácsadó, segítőkész hozzáállását és a díjmentes, őszinte tájékoztatást. A visszajelzések alapján a szerviz a barátságos óradíjat kínálja.",
+    "priceVariant": 4,
     "basedOn": 17,
-    "en": "Customers unanimously praise the fast, precise and patient service, as well as the noticeable improvement after cleaning and thermal paste replacement. The reviews highlight the experts' advisory attitude and the free, honest guidance. Based on the feedback, the service offers predictable pricing with no hidden costs."
+    "en": "Customers unanimously praise the fast, precise and patient service, as well as the noticeable improvement after cleaning and thermal paste replacement. The reviews highlight the experts' advisory attitude and free, honest guidance. Based on the feedback, the service offers a friendly hourly rate."
   },
   "reviews": [
     {
@@ -42,7 +42,7 @@
     },
     {
       "n": "Zoltán Tápai",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bc2506b3118f.png",
+      "a": "",
       "s": 5,
       "d": "2026-10-21T11:04:34.000Z",
       "t": "Gyorsan és professzionálisan kezelték",
@@ -176,9 +176,9 @@
       "s": 5,
       "d": "2025-12-23T18:40:35.342Z",
       "t": "Karácsony előtti gamer beállítás",
-      "x": "December 23.-án elvállalták az utolsó pillanatban érkezett, fiamnak szánt gamer laptop, teljes telepítését és beállítását, úgy hogy délután kettőkor estem be vele. Nagyon korrekt szerviz, korrekt árakkal, és korrekt hozzáállással. Manapság nem igazán létezik már ilyen sajnos. Köszönjük szépen nektek! Békés, Boldog Karác",
+      "x": "December 23.-án elvállalták az utolsó pillanatban érkezett, fiamnak szánt gamer laptop, teljes telepítését és beállítását, úgy hogy délután kettőkor estem be vele. Nagyon korrekt szerviz, korrekt árakkal, és korrekt hozzáállással. Manapság nem igazán létezik már ilyen sajnos. Köszönjük szépen nektek! Békés, Boldog Kará",
       "xe": "On December 23rd they took on the full installation and setup of a last-minute gaming laptop for my son, even though I walked in at two in the afternoon. A really fair repair shop, with fair prices and a fair attitude. Unfortunately this barely exists nowadays. Thank you very much! Peaceful, Happy Christmas",
-      "te": "Christmas gaming setup"
+      "te": "Last-minute Christmas gaming setup"
     }
   ]
 }
