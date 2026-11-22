@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-22T04:03:59.918Z",
+  "generated": "2026-11-22T11:13:46.442Z",
   "rating": 4.9,
   "total": 623,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "A vendégek visszatérően a gyorsaságot és a korrekt árazást emelik ki: reggel leadták a gépet, és délutánra elkészült. Több vélemény kiemeli a türelmes, tanácsadó hozzáállást is, sokan írják, hogy csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek lettek, a laptopok pedig szinte újszerű állapotban kerültek vissza.",
-    "priceVariant": 0,
+    "text": "A vélemények alapján a szerviz gyorsan és precízen oldja meg a hibákat, a tisztítás és pasztázás után pedig a gépek halkabbak és hűvösebbek lesznek. Az ügyfelek a türelmes, tanácsadó hozzállást értékelik, amellyel a szakemberek a nem szakavatott kérdéseket is világosan megválaszolják. Többen kiemelik a belvárosban megszokottnál kedvezőbb óradíjat is, amelyhez megbízható minőség társul.",
+    "priceVariant": 1,
     "basedOn": 20,
-    "en": "Customers consistently highlight the fast, patient and advisory attitude at the service. Cleaning and thermal paste effectively reduce overheating and noise, while the team gives useful advice even to non-technical customers. The feedback also points out the value for money."
+    "en": "According to the reviews, the service fixes faults quickly and precisely, and after cleaning and thermal paste the machines become quieter and cooler. Customers appreciate the patient, advisory attitude with which the technicians answer even non-technical questions clearly. Several also mention the more favourable hourly rate than usual in the city centre, paired with reliable quality."
   },
   "reviews": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "n": "Zoltán Tápai",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bc2506b3118f.png",
+      "a": "",
       "s": 5,
       "d": "2026-10-21T11:04:34.000Z",
       "t": "Gyorsan és professzionálisan kezelték",
@@ -115,7 +115,7 @@
       "a": "",
       "s": 5,
       "d": "2026-08-24T10:24:41.000Z",
-      "t": "Külföldi vendég ajánlása",
+      "t": "Külföldi vendég dicsérete",
       "x": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!",
       "xe": "",
       "te": "Smooth help in English"
