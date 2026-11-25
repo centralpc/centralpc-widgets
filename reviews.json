@@ -1,18 +1,18 @@
 {
-  "generated": "2026-11-25T04:03:23.472Z",
+  "generated": "2026-11-25T11:12:08.195Z",
   "rating": 4.9,
   "total": 623,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "A visszajelzések szerint az ügyfelek gyors, precíz és türelmes segítséget kapnak, a szakemberek érthető tanácsokkal támogatják őket. A tisztítás és a hővezető paszta cseréje érezhetően halkabbá és hűvösebbé teszi a gépeket, gyakorlatilag újszerű állapotot eredményezve. A vélemények külön kiemelik a rejtett költségek nélküli, kiszámítható árazást, amelyet a korrekt elszámolás támaszt alá.",
-    "priceVariant": 3,
+    "text": "A vendégek visszatérően a gyorsaságot és a korrekt árazást emelik ki: reggel leadták a gépet, és délutánra elkészült. Több vélemény kiemeli a türelmes, tanácsadó hozzáállást is, sokan írják, hogy csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek lettek, a laptopok pedig szinte újszerű állapotban kerültek vissza.",
+    "priceVariant": 0,
     "basedOn": 20,
-    "en": "According to the reviews, customers receive fast, precise and patient help, with technicians supporting them with understandable advice. Cleaning and thermal paste replacement makes machines noticeably quieter and cooler, often resulting in a like-new condition. The feedback particularly highlights pricing with no hidden costs and predictable rates, backed by fair billing."
+    "en": "Customers highlight fast and patient service, with technicians providing helpful advice. After cleaning and thermal paste replacement, machines run quieter, cooler and close to new condition. The reviews also mention reliable communication, fair prices and the fair hourly rate."
   },
   "reviews": [
     {
       "n": "Kristijan Ifju",
-      "a": "",
+      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/dca924e2367e.png",
       "s": 5,
       "d": "2026-11-19T15:00:41.000Z",
       "t": "Kitartó gyors hibaelhárítás",
@@ -72,7 +72,7 @@
     },
     {
       "n": "Zoltán Tápai",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bc2506b3118f.png",
+      "a": "",
       "s": 5,
       "d": "2026-10-21T11:04:34.000Z",
       "t": "Gyorsan és professzionálisan kezelték",
