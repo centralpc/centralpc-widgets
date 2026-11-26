@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T11:12:08.195Z",
+  "generated": "2026-11-26T06:27:09.186Z",
   "rating": 4.9,
   "total": 623,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
@@ -7,7 +7,7 @@
     "text": "A vendégek visszatérően a gyorsaságot és a korrekt árazást emelik ki: reggel leadták a gépet, és délutánra elkészült. Több vélemény kiemeli a türelmes, tanácsadó hozzáállást is, sokan írják, hogy csak akkor kérnek pénzt, ha valóban szükség van valamilyen munkára. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek lettek, a laptopok pedig szinte újszerű állapotban kerültek vissza.",
     "priceVariant": 0,
     "basedOn": 20,
-    "en": "Customers highlight fast and patient service, with technicians providing helpful advice. After cleaning and thermal paste replacement, machines run quieter, cooler and close to new condition. The reviews also mention reliable communication, fair prices and the fair hourly rate."
+    "en": "Customers highlight fast and patient service, with technicians providing helpful advice. After cleaning and thermal paste replacement, machines run quieter, cooler and close to new condition. The reviews also mention reliable communication and a more favourable hourly rate than typically found in the city centre."
   },
   "reviews": [
     {
@@ -72,7 +72,7 @@
     },
     {
       "n": "Zoltán Tápai",
-      "a": "",
+      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/bc2506b3118f.png",
       "s": 5,
       "d": "2026-10-21T11:04:34.000Z",
       "t": "Gyorsan és professzionálisan kezelték",
@@ -117,7 +117,7 @@
       "d": "2026-08-24T10:24:41.000Z",
       "t": "Külföldi vendég dicsérete",
       "x": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!",
-      "xe": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!",
+      "xe": "",
       "te": "Smooth help in English"
     },
     {
