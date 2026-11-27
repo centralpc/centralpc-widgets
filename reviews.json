@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-27T04:02:43.304Z",
+  "generated": "2026-11-27T11:13:23.596Z",
   "rating": 4.9,
   "total": 623,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "Az ügyfelek a gyors, gyakran ugyanazon a napon elvégzett javításokat és a türelmes, tanácsadó hozzáállást emelik ki. A tisztítás és pasztázás után a gépek halkabbak, hűvösebbek és újszerűbben működnek. A visszajelzések szerint a szerviz a belvárosban megszokottnál kedvezőbb óradíjat kínál, és csak a ténylegesen elvégzett munkáért kér pénzt.",
-    "priceVariant": 1,
+    "text": "A véleményekben az ügyfelek kiemelik a gyors, gyakran már ugyanazon a napon elvégzett javításokat és a türelmes, érthető tanácsadást, amelyet idősebb, kevésbé jártas ügyfelek is értékelnek. A tisztítás és a hővezető paszta cseréje rendre halkabb, hűvösebb, újszerűbben működő gépet eredményez. A szervizben díjmentes tanácsokat is kapnak a látogatók, és a rejtett költségek nélküli, kiszámítható árazást többen megemlítik.",
+    "priceVariant": 3,
     "basedOn": 20,
-    "en": "Customers highlight fast and patient service, with technicians providing helpful advice. After cleaning and thermal paste replacement, machines run quieter, cooler and close to new condition. The reviews also mention reliable communication and a more favourable hourly rate than typically found in the city centre."
+    "en": "Customers highlight fast repairs, often completed the same day, and patient, understandable advice that less experienced and older clients appreciate. Cleaning and thermal paste replacement make machines quieter, cooler and work like new again. Visitors also receive free advice, and many mention the predictable, transparent pricing with no hidden costs."
   },
   "reviews": [
     {
@@ -117,7 +117,7 @@
       "d": "2026-08-24T10:24:41.000Z",
       "t": "Külföldi vendég dicsérete",
       "x": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!",
-      "xe": "",
+      "xe": "Great experience with this repair shop! The team was super helpful, friendly, and professional from start to finish. They did excellent work, explained everything clearly, and made the whole process easy. Really happy with the quality of the repair and the service. Highly recommend them!",
       "te": "Smooth help in English"
     },
     {
@@ -132,7 +132,7 @@
     },
     {
       "n": "Ákos Balázs Rónai",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/d44230db4af2.png",
+      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/cd1b7c66bccd.png",
       "s": 5,
       "d": "2026-08-06T10:05:32.418Z",
       "t": "Díjmentes tanácsok őszintén",
