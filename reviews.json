@@ -1,13 +1,13 @@
 {
-  "generated": "2026-11-28T04:02:12.817Z",
+  "generated": "2026-11-28T11:11:14.193Z",
   "rating": 4.9,
   "total": 624,
   "placeId": "ChIJxXuZlsyzQkcRr3CD9AwFk7k",
   "summary": {
-    "text": "Az ügyfelek kiemelik a gyors javításokat, amelyek gyakran ugyanazon a napon elkészülnek, valamint a türelmes, tanácsadó hozzáállást, amit a kevésbé jártas és idősebb felhasználók is értékelnek. A tisztítás és a pasztázás hatására a gépek halkabbak, hűvösebbek és újszerűbben működnek. A véleményekben szó esik arról is, hogy díjmentes tanácsot is kaptak, és többen kiemelik a rejtett költségek nélküli, kiszámítható árazást.",
-    "priceVariant": 3,
+    "text": "Az ügyfelek a gyors megoldásokat emelik ki: a javításokat gyakran ugyanazon a napon elvégzik, és a hozzá nem értő vagy idősebb felhasználóknak is türelmes, érthető magyarázatot adnak. A gondos belső tisztítás és a pasztázás után a gépek halkabbak, hűvösebbek és újszerűbben működnek. Sokan kapnak díjmentes, hasznos tanácsot is, és többen megemlítik a korrekt árazást.",
+    "priceVariant": 0,
     "basedOn": 20,
-    "en": "Customers highlight fast repairs, often completed the same day, and patient, understandable advice that less experienced and older clients appreciate. Cleaning and thermal paste replacement make machines quieter, cooler and work like new again. Visitors also receive free advice, and many mention the predictable, transparent pricing with no hidden costs."
+    "en": "Customers highlight fast solutions: repairs are often completed on the same day, and less experienced or older users receive patient, easy-to-understand explanations. After thorough internal cleaning and thermal paste replacement, machines run quieter, cooler and almost like new. Many visitors also receive free, useful advice, and several mention the fair pricing."
   },
   "reviews": [
     {
@@ -132,7 +132,7 @@
     },
     {
       "n": "Ákos Balázs Rónai",
-      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/d44230db4af2.png",
+      "a": "https://raw.githubusercontent.com/centralpc/centralpc-widgets/main/avatars/cd1b7c66bccd.png",
       "s": 5,
       "d": "2026-08-06T10:05:32.418Z",
       "t": "Díjmentes tanácsok őszintén",
